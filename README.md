@@ -2,7 +2,7 @@
 
 ## 简介
 
-学了 `select`，写了个项目练练手，打算日后多添一点功能。项目只使用了 C++ 作为开发语言。
+学了select，写了个项目练练手，打算日后多添一点功能。项目只使用了 C++ 作为开发语言。
 
 ## 注意事项
 
@@ -19,7 +19,7 @@ bash
 git clone https://github.com/NiHaoi/Simple-chat-rooms.git
 ### 2. 编译
 
-使用 `g++` 或 Visual Studio 编译源代码：
+使用 g++ 或 Visual Studio 编译源代码：
 
 bash
 g++ server.cpp -o server.exe -lws232
