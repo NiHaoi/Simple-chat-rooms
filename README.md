@@ -19,21 +19,5 @@
 git clone https://github.com/NiHaoi/Simple-chat-rooms.git
 
 ```
-
-### 2. 编译
-
-使用 g++ 或 Visual Studio 编译源代码：
-
-```bash
-g++ server.cpp -o server.exe -lws232
-g++ client.cpp -o client.exe -lws232
-```
-
-### 3. 运行
-
-运行服务端和客户端：
-
-```bash
-./server.exe
-./client.exe
-```
+### 2.编译
+分别用vs打开并进行编译
