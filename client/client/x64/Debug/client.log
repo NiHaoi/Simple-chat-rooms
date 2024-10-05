@@ -1,0 +1,3 @@
+﻿  client.cpp
+C:\Users\nihao\source\repos\client\client\client.cpp(42,57): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  client.vcxproj -> C:\Users\nihao\source\repos\client\x64\Debug\client.exe

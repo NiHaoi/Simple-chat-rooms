@@ -1,0 +1,4 @@
+﻿  server.cpp
+D:\cdome\server\server\server.cpp(17,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\cdome\server\server\server.cpp(74,41): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+  server.vcxproj -> D:\cdome\server\x64\Debug\server.exe
